@@ -1,4 +1,4 @@
-# The Homebrew Launcher
+# The Homebrew Launcher (Dark Edition)
 
 #### Presentation
 
@@ -101,3 +101,8 @@ hbmenu is looking for contributors! We're making this repository public so that 
 - Arkhandar: graphics
 - dotjasp: graphics (regionfree icon)
 - gruetzkopf, TuxSH, AuroraWright, Soph1a7, SentientTurtle, Yami-chan, d3m3vilurr, daedreth, JixunMoe, yy-codes, MCPE-PC: translations
+
+
+#### Changes from original
+- rewrote ui to be eye-friendly ;)
+- that's about it.
